@@ -74,4 +74,5 @@ build
 # Remix
 api/
 
+# testing new configs
 old_config/
